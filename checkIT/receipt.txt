@@ -1,0 +1,8 @@
+Order Details:
+
+- Eggs Benedict (15.99 $)
+- Red Wine (19.99 $)
+
+Total: 35.98 $
+
+Thank you for choosing us!
